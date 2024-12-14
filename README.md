@@ -1,5 +1,4 @@
-# FinessUnited
-Installation commands
+# Installation commands
 
 ```bash
 npm install
